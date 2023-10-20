@@ -1,0 +1,12 @@
+names:
+- Boxes
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: box_count-cmzxw
+  url: https://universe.roboflow.com/jainam-doshi-ajldi/box_count-cmzxw/dataset/3
+  version: 3
+  workspace: jainam-doshi-ajldi
+test: D:\PYTHON PROJECTS\Box_Counting\Box_Count-3\test\images
+train: D:\PYTHON PROJECTS\Box_Counting\Box_Count-3\train\images
+val:  D:\PYTHON PROJECTS\Box_Counting\Box_Count-3\valid\images
